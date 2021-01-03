@@ -1,0 +1,21 @@
+body{
+   /* background : #2980b9;
+    background: -webkit-linear-gradient(to right, #2c3e50,#2980b9); */
+    background: linear-gradient( to right , #2c3e50,#2980b9);
+}
+h1{
+    color:aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.displayBox{
+width: 100%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.scroll-box{
+    overflow-y: auto;
+    height: 500px;
+    float:left;
+    padding: 1rem;
+}
